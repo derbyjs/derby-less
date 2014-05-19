@@ -1,3 +1,5 @@
+var less = require('less');
+
 module.exports = function(app) {
   app.viewExtensions.push('.less');
   app.compilers['.less'] = lessCompiler;
