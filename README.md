@@ -9,7 +9,7 @@ Right after creating your Derby app, add:
 app.serverUse(module, 'derby-less');
 ```
 
-Make sure this is before any calls to `app.loadViews()`.
+Make sure this is before any calls to `app.loadStyles()`.
 
 After that you can use `*.less` files instead of `*.css`
 
