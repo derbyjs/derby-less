@@ -1,6 +1,6 @@
 {
   "name": "derby-less",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Derby plugin to add Less support",
   "main": "index.js",
   "scripts": {
