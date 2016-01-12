@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/codeparty/derby-less.git"
+    "url": "git://github.com/derbyjs/derby-less.git"
   },
   "keywords": [
     "derby",
@@ -19,10 +19,13 @@
   "author": "Artur Zayats <zag2art@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codeparty/derby-less/issues"
+    "url": "https://github.com/derbyjs/derby-less/issues"
   },
-  "homepage": "https://github.com/codeparty/derby-less",
+  "homepage": "https://github.com/derbyjs/derby-less",
   "dependencies": {
     "less": "~1.7.0"
+  },
+  "directories": {
+    "example": "example"
   }
 }

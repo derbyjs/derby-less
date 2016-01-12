@@ -13,6 +13,6 @@
     "derby-starter": "~0.1.2",
     "derby": "0.6.0-alpha8",
     "derby-jade": "~0.6.4",
-    "derby-less": "git://github.com/codeparty/derby-less"
+    "derby-less": "git://github.com/derbyjs/derby-less"
   }
 }
